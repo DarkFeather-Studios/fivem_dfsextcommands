@@ -1,8 +1,8 @@
 # fivem_dfsextcommands
 
 - This resource relies on the DFS framework I have posted here. https://github.com/DarkFeather-Studios/fivem_framework
-- This resource relies on the DFS db_perms resource I have posted here. This dependency can be replaced with your own version or removed entirely in under an hour. <INSERT_LINK_HERE> 
-- This resource relies on the DFS_Alerts resource I have posted here. This dependency is simply a chat templater, and can be easily removed in under an hour. <INSERT_LINK_HERE>
+- This resource relies on the DFS db_perms resource I have posted here. This dependency can be replaced with your own version or removed entirely in under an hour. https://github.com/DarkFeather-Studios/dfsdb_perms
+- This resource relies on the DFS_Alerts resource I have posted here. This dependency is simply a chat templater, and can be easily removed in under an hour. https://github.com/DarkFeather-Studios/dfsAlerts
 
 This resource is provided as-is, you may alter and use this code in any way you please, I simply request you do not re-upload it unless you have made good quality fixes or changes.
 
