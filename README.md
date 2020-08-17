@@ -69,7 +69,7 @@ Client
 
 - /slay playerID [range]; Slays the specified player, or all players within range. The range delimiter does not seem to funciton as intended.
 
-- /heal [playerID]; Heals another players health, food, and water. This command relies on DFS_Stats <INSERT_LINK_HERE>.
+- /heal [playerID]; Heals another players health, food, and water. This command relies on DFS_Stats https://github.com/DarkFeather-Studios/dfsstats
 
 - /fetch playerID; Bring another player to you.
 
